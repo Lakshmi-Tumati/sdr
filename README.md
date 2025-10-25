@@ -6,7 +6,7 @@ An intelligent, conversational AI SDR built using Streamlit and Grok's LLM to qu
 
 ---
 
-## 🚀 Features
+## Features
 
 ### AI SDR Conversation
 - Interactive chatbot powered by Grok LLM.
