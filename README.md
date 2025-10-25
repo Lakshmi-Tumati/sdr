@@ -2,7 +2,7 @@
 
 # 📈 AI Sales Development Representative (SDR) 
 
-An intelligent, conversational AI SDR built using Streamlit and Grok's LLM API to qualify sales leads, assess business needs, and score potential opportunities based on user-defined priorities.
+An intelligent, conversational AI SDR built using Streamlit and Grok's LLM to qualify sales leads, assess business needs, and score potential opportunities based on user-defined priorities.
 
 ---
 
